@@ -34,7 +34,6 @@ procedure left(x:Integer);
          write('*');
          WriteLn;
          x := x - 1;
-
       
     until x = 0;
   end;
